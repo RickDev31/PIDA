@@ -47,5 +47,10 @@ Se utilizo la API de yahoo finance, la cual posee su librería https://pypi.org/
 
 
 ## ENTREGABLES FINALES:
+Los 4 archivos generados estan en el siguiente link:
+
+https://drive.google.com/drive/folders/1gvjuhfdpRx31xrXlRodSC0p0KKuJzwA5?usp=sharing
+
+En el presente Github el primer archivo no esta por temas de espacio.
 
 
